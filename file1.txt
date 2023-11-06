@@ -10,3 +10,4 @@ some hot fix
 기능 1 변경
 
 comment 기능 추가
+board랑 병합
