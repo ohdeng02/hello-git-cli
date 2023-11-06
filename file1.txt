@@ -11,3 +11,5 @@ some hot fix
 
 comment 기능 추가
 board랑 병합
+키득키득
+코딩이싫어요
